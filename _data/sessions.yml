@@ -162,8 +162,8 @@
 
 -
   id: 209
-  title: "Track Session"
-  description: "Track session"
+  title: "Recreational Programming"
+  description: "Programming is fun. It is even more so when we program just of the fun of it, without any practical value. How about building a game, solving a puzzle, writing a compiler, making a fractal or even writing a programming language? "
   subtype: presentation
   speakers: [4]
   language: en

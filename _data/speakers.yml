@@ -54,7 +54,8 @@
   surname: "Chitipothu"
   company:
     - {name: "Pipal Academy", title: "Software Consultant & Trainer"}
-  bio: "He has programing experience ranging from building rich desktop applications to scaling high-traffic websites, writing high-performance scientific tools to modern proxy servers. He works for Internet Archive, also conducts public training classes in Bangalore on a semi-regular basis."
+    - {name: "Rorodata", title: "Co-founder"}
+  bio: "Anand has been crafting beautiful software since a decade and half. He’s now building a data science platform, rorodata, which he recently co-founded. He regularly conducts advanced programming courses through Pipal Academy. He is co-author of web.py, a micro web framework in Python. He has worked at Strand Life Sciences and Internet Archive."
   thumbnailUrl: c-anand.jpg
   rockstar: false
   social:
