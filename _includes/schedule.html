@@ -50,7 +50,7 @@
                                                     <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
                                                         <span class="speaker-position">
                                                             {% for company in speaker.company %}
-                                                                {{company.title}}, {{company.name}}<br>
+                                                                {% if company.title != "" %} {{ company.title }}, {% endif %} {{company.name}}<br>
                                                             {% endfor %} 
                                                         </span>
                                                     </p>
