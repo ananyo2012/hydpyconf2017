@@ -66,12 +66,24 @@
 
 -
   id: 202
-  title: "Track Session"
-  description: "Track session"
+  title: "Programming techniques and practices for the scientist and engineer"
+  description: "<p>Computational science has changed the way we do science and engineering. 
+                  However, most computational scientists are not trained to be effective computer programmers.
+                  They are instead expected to just 'pick it up'. As most practitioners will attest,
+                  this is not easy and leads to a host of problems.</p>
+                <p>I am an aerospace engineer by training and have been programming with Python
+                  and other languages for many years and have made many mistakes. Fortunately, I
+                  have learned some lessons while making these mistakes. In this talk I'll first
+                  talk very briefly about the various things I've had to build as a non-CSE
+                  engineer over the last two decades and then go over several lessons that I
+                  have found useful when I write code today. Many of these lessons are fairly
+                  well known. I plan to put these ideas in the context of a computational
+                  scientist and the challenges they face guided by my own experiences. My hope
+                  is that these general rules will help others be better programmers.</p>"
   subtype: presentation
   speakers: [6]
   language: en
-  #complexity: ""
+  complexity: "Intermediate"
   #presentation: ""
   #video: ""
 
