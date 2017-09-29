@@ -18,7 +18,8 @@
 ----------------------------------------- */
 
 .flipclock-header {
-	padding-top: 12em;
+	position: relative;
+	top: 30%;
 }
 
 .flipclock-header .clock {
@@ -105,11 +106,12 @@ ul.plain li { margin-bottom: 10px; }
 }
 
 @media screen and (max-width: 767px) {
+
 	.flipclock-header {
-		padding-top: 10em;
+		position: relative;
+		top: 20%;
 	}
 
-	.flipclock-header { padding-bottom: 25px; padding: 5px 0; }
 	.flipclock-header .buttons { margin: 40px 0 0; text-align: center; }
 	.flipclock-header h1 { font-size: 54px; }
 	.flipclock-header .version { font-size: 18px; }
