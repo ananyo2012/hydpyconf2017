@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "PyConf Hyderabad 2017"
 email: "contact@hydpy.org"
 description: "Hyderabad Python Conference 2017"
-baseurl: ""
-url: "http://pyconf.hydpy.org/"
+baseurl: "https://ananyo2012.github.io/hydpyconf2017"
+url: ""
 #permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -115,7 +115,7 @@ eventEndTime: "2017-10-08T17:00"
 eventPlaceCoordinates: "17.4455415, 78.3471251"
 mapCenterCoordinates: "17.4455415, 78.3471251"
 mapMobileCenterCoordinates: "17.4455415, 78.3471251"
-mapAPIkey: AIzaSyADHvpvQ4j0gpgqMjNp3h-QEc1N73Yp55Y
+mapAPIkey: AIzaSyBCyoQAzrgKBaeLd_s4vK4fNMnX2201xlc
 
 # Venue Block
 #venueBlockTitle: "Venue"
