@@ -13,3 +13,8 @@
   group: "Venue Partner"
   elements: 
     - {name: "IIIT Hyderabad", description: "International Institute of Information Technology, Hyderabad", link: "https://www.iiit.ac.in", imageUrl: "iiit-new.png"}
+
+- 
+  group: "Commute Partner"
+  elements: 
+    - {name: "Uber", description: "Uber", link: "https://www.uber.com", imageUrl: "uber_logo.jpg"}
