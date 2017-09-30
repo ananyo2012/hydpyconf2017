@@ -43,6 +43,11 @@ layout: compress
     </script>
 
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+    {% if page.permalink == "/" %}
+        <script src="{{ "/js/flipclock.min.js" | prepend: site.baseurl }}"></script>
+    {% endif %}
+
     <script>
     if (typeof($.fn.modal) === 'undefined') {
         document.write('<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}><\/script>')
@@ -54,8 +59,22 @@ layout: compress
         var googleMaps;
         var staticGoogleMaps;
         {% if page.permalink == '/' %}
+            var clock;
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
+
+                var currentDate = new Date();
+
+                var futureDate  = new Date(currentDate.getFullYear(), 9, 7);
+
+                var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+
+                clock = $(".clock").FlipClock(diff, {
+                    clockFace: 'DailyCounter',
+                    countdown: true,
+                    showSeconds: false
+                });
+
                 $(function () {
                     if ($(window).width() > 767) {
                         $("#typeout-text").typed({
