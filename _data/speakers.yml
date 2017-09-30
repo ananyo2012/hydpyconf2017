@@ -1,17 +1,15 @@
 -
   id: 1
-  name: "Kushal"
-  surname: "Das"
+  name: "S"
+  surname: "Anand"
   company:
-    - {name: "Red Hat", title: "Fedora Cloud Engineer"}
-    - {name: "Python Software Foundation", title: "Director"}
-  bio: 'Kushal is working with Fedora Project over last 10 years in various capacities and currently working as Fedora Cloud Engineeer in Red Hat. He is also a core developer of CPython, and director at Python Software Foundation. In 2004 he founded <a href="https://dgplug.org">dgplug</a> and still helps there as a co-ordinator.'
-  thumbnailUrl: kushaldas.jpg
+    - {name: "Gramener", title: "CEO"}
+  bio: "Anand is a co-founder of Gramener, a data science company. He leads a team of data enthusiasts with skills in analysis, design, programming and statistics. He studied at IIT Madras, IIM Bangalore and LBS, and worked at IBM, Infosys, Lehman Brothers and BCG. He and his team explore insights from data and communicate these as visual stories. These visual analyses and dashboards are built on the Gramener Visualisation Server."
+  thumbnailUrl: s-anand-big.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/kushaldas"}
-    - {name: "site", link: "https://kushaldas.in"}
-    - {name: "github", link: "https://github.com/kushaldas"}
+    - {name: "twitter", link: "http://twitter.com/sanand0"}
+    - {name: "site", link: "http://www.s-anand.net"}
 
 -
   id: 2
@@ -37,16 +35,18 @@
 
 -
   id: 3
-  name: "S"
-  surname: "Anand"
+  name: "Kushal"
+  surname: "Das"
   company:
-    - {name: "Gramener", title: "CEO"}
-  bio: "Anand is a co-founder of Gramener, a data science company. He leads a team of data enthusiasts with skills in analysis, design, programming and statistics. He studied at IIT Madras, IIM Bangalore and LBS, and worked at IBM, Infosys, Lehman Brothers and BCG. He and his team explore insights from data and communicate these as visual stories. These visual analyses and dashboards are built on the Gramener Visualisation Server."
-  thumbnailUrl: s-anand-big.jpg
+    - {name: "Red Hat", title: "Fedora Cloud Engineer"}
+    - {name: "Python Software Foundation", title: "Director"}
+  bio: 'Kushal is working with Fedora Project over last 10 years in various capacities and currently working as Fedora Cloud Engineeer in Red Hat. He is also a core developer of CPython, and director at Python Software Foundation. In 2004 he founded <a href="https://dgplug.org">dgplug</a> and still helps there as a co-ordinator.'
+  thumbnailUrl: kushaldas.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "http://twitter.com/sanand0"}
-    - {name: "site", link: "http://www.s-anand.net"}
+    - {name: "twitter", link: "https://twitter.com/kushaldas"}
+    - {name: "site", link: "https://kushaldas.in"}
+    - {name: "github", link: "https://github.com/kushaldas"}
 
 -
   id: 4
