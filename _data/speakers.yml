@@ -38,8 +38,8 @@
   name: "Kushal"
   surname: "Das"
   company:
-    - {name: "Red Hat", title: "Fedora Cloud Engineer"}
     - {name: "Python Software Foundation", title: "Director"}
+    - {name: "Freedom of The Press Foundation", title: ""}
   bio: 'Kushal is working with Fedora Project over last 10 years in various capacities and currently working as Fedora Cloud Engineeer in Red Hat. He is also a core developer of CPython, and director at Python Software Foundation. In 2004 he founded <a href="https://dgplug.org">dgplug</a> and still helps there as a co-ordinator.'
   thumbnailUrl: kushaldas.jpg
   rockstar: true
