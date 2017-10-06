@@ -14,6 +14,7 @@
   group: "Silver Sponsors"
   elements:
     - {name: "Pipal Academy", description: "Pipal Academy", link: "https://pipal.in", imageUrl: "pipal_academy_logo.png"}
+    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/in-en/", imageUrl: "IBM_Logo.png"}
 
 -
   group: "In-Kind Sponsors"
